@@ -37,7 +37,7 @@ public class MainActivity extends ActionBarActivity {
 
     //Replace this with your App ID from the Layer Developer page.
     //Go http://developer.layer.com, click on "Dashboard" and select "Info"
-    public static String Layer_App_ID = "LAYER_APP_ID";
+    public static String Layer_App_ID = "e8713bf0-d144-11e4-8d86-e08c52002baa";
 
     //Optional: Enable Push Notifications
     // Layer uses Google Cloud Messaging for Push Notifications. Go to
